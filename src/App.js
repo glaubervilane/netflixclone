@@ -59,6 +59,11 @@ export default () => {
                     <MovieRow key={key} title={item.title} items={item.items} />
                 ))}
             </section>
+            <footer>
+                    Created By Glauber Marques<br />
+                    Image rights for Netflix<br />
+                    Data taken from TheMovieDb.org website
+            </footer>
         </div>
     );
 }
