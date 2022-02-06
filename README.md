@@ -1,5 +1,5 @@
 # This project is a Netflix clone to the front-end using React JS and NPM tools
-  The goal is to deliver all front end funcyionalities as it works into the Netflix plataform in real life.
+  The goal is to deliver all front end functionalities as it works into the Netflix plataform in real life.
   
 # Getting Started with Create React App
 
