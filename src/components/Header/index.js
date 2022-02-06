@@ -11,7 +11,7 @@ export default ({black}) => {
             </div>
             <div className="header--user">
                 <a href="/">
-                    <img src="" alt="User"/>
+                    <img src="https://ih0.redbubble.net/image.618427277.3222/flat,1000x1000,075,f.u2.jpg" alt="User"/>
                 </a>
             </div>
         </header>
